@@ -1,5 +1,4 @@
 {
-  
   "Print to console": {
     "prefix": "cl",
     "scope": "javascript,typescript,javascriptreact",
